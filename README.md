@@ -1,4 +1,4 @@
-MJ—Nov-2018-Python-Course-Program
+MJâ€”Nov-2018-Python-Course-Program
 
 Liquidity Risk of publicly traded stock
 
@@ -18,4 +18,4 @@ To open the file, please go to GitHub link below:
 
 https://github.com/mjcodelouisville
 
-and select repository on MJ--Nov-2018-Python-Course-Program, Liquidity Risk of publicly traded stock.
+and select repository on MJ--Nov-2018-Python--Program-New-, Liquidity Risk of publicly traded stock.
